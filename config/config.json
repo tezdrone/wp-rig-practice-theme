@@ -1,1 +1,15 @@
-{}
+{
+  "theme": {
+    "slug": "newrig",
+    "name": "New Rig",
+    "author": "Ben Mitchell"
+  },
+  "dev": {
+    "browserSync": {
+      "live": true,
+      "proxyURL": "localhost:8080",
+      "bypassPort": "8181",
+      "https": false
+    }
+  }
+}
